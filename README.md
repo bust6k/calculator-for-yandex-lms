@@ -57,6 +57,11 @@
  ```bash
 git clone git@github.com:bust6k/bust6k-calculator-for-yandex-lms.git
 ```
+если у вас не работает,попробуйте скопировать данную команду:
+```bash
+git clone https://github.com/bust6k/calculator-for-yandex-lms
+
+```
 
 
 ● для того чтобы запустить проект сначала перейдите в директорию CMD(cd CMD)
