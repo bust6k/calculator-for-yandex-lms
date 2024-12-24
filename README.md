@@ -53,10 +53,9 @@
 ● если вы не заете как склонировать проект,воспользуйтесь командой git clone
 
  ● в моем примере для копирования проекта нужно ввести команду:
-
-```git clone```
-
+ 
  ```bash
+git clone
 git@github.com:bust6k/bust6k-calculator-for-yandex-lms.git
 ```
 
