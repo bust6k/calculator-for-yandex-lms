@@ -1,7 +1,7 @@
 package Tests
 
 import (
-	"awesomeProject1/CMD"
+	"Main_Directories/CMD"
 	"encoding/binary"
 	"fmt"
 	"io"
