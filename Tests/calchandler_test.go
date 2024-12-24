@@ -1,7 +1,7 @@
 package Tests
 
 import (
-	"Main_Directories/CMD"
+	 "Main_Directories/CMD"
 	"encoding/binary"
 	"fmt"
 	"io"
