@@ -61,7 +61,7 @@ git clone https://github.com/bust6k/calculator-for-yandex-lms
 ```
 
 
-● для того чтобы запустить проект сначала перейдите в директорию CMD(cd CMD)
+● для того чтобы запустить проект сначала перейдите в директорию Main_Directories(cd Main_Directories),а потом в  CMD(cd CMD)
 
 ● потом перейти в директорию Main(cd Main)
 
