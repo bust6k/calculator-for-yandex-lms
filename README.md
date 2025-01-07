@@ -98,6 +98,7 @@ git clone https://github.com/bust6k/calculator-for-yandex-lms
 ## КАК ТЕСТИРОВАТЬ ПРОГРАММУ
 
 ●скачайте git bash(или просто зайдите в него если уже есть)
+
 ●если у вас линукс то в терминале введите команду ```sudo apt install git```
 ● запустите проект
 
